@@ -1,4 +1,4 @@
 ---
 title: "welcome"
-date: 2019/09/12
+date: 2019-09-12
 ---
